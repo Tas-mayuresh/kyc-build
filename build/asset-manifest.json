@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b922ba00.chunk.css",
+    "main.js": "/static/js/main.4b514022.chunk.js",
+    "main.js.map": "/static/js/main.4b514022.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.adede37d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.adede37d.js.map",
+    "static/css/2.86f9686d.chunk.css": "/static/css/2.86f9686d.chunk.css",
+    "static/js/2.a78402d6.chunk.js": "/static/js/2.a78402d6.chunk.js",
+    "static/js/2.a78402d6.chunk.js.map": "/static/js/2.a78402d6.chunk.js.map",
+    "static/js/3.53030325.chunk.js": "/static/js/3.53030325.chunk.js",
+    "static/js/3.53030325.chunk.js.map": "/static/js/3.53030325.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.86f9686d.chunk.css.map": "/static/css/2.86f9686d.chunk.css.map",
+    "static/css/main.b922ba00.chunk.css.map": "/static/css/main.b922ba00.chunk.css.map",
+    "static/js/2.a78402d6.chunk.js.LICENSE.txt": "/static/js/2.a78402d6.chunk.js.LICENSE.txt",
+    "static/media/merchant.825aa4fb.png": "/static/media/merchant.825aa4fb.png",
+    "static/media/user.5b6d8fe4.png": "/static/media/user.5b6d8fe4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adede37d.js",
+    "static/css/2.86f9686d.chunk.css",
+    "static/js/2.a78402d6.chunk.js",
+    "static/css/main.b922ba00.chunk.css",
+    "static/js/main.4b514022.chunk.js"
+  ]
+}
